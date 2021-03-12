@@ -20,7 +20,7 @@ The Note_Taker Application creates and stores user's notes. The user simply writ
 
 
 ### Video:
-[![Press click to watch the video] <iframe src="https://drive.google.com/file/d/1hxI5b3uLeyAvTdCvhkLpGskZWzU4EXpD/preview" width="640" height="480"></iframe>](https://drive.google.com/file/d/1hxI5b3uLeyAvTdCvhkLpGskZWzU4EXpD/view)
+[![Press click to watch the video]](https://drive.google.com/file/d/1hxI5b3uLeyAvTdCvhkLpGskZWzU4EXpD/view)
 
 ### Picture:
 ![Picture](./public/assets/img/1.png) 
