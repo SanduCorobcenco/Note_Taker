@@ -15,7 +15,7 @@
 
 
 ### About the project:
-The Note_Taker Application creates and stores user's notes. The user simply writes a title and the notes and hits the save icon. The note will then render on the notes page. Notes can be deleted at anytime. Application is deployed to heroku. Front-end is connected to and Express.js back-end.
+The Note_Taker Application creates and stores user's notes. The user simply writes a title and the notes and hits the save icon. The note will then render on the notes page. Notes can be deleted at anytime. Application is deployed to heroku. Front-end is connected to an Express.js back-end.
 
 
 
